@@ -5,3 +5,7 @@ body > header {
 nav a {
     margin-right: 10px;
 }
+
+footer {
+    text-align: center;
+}

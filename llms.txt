@@ -1,0 +1,45 @@
+# Développeur Backend Web - PHP
+> Développeur Backend Web avec plus de 10 ans d'expérience, spécialisé en PHP/SQL et capable de collaborer efficacement avec différentes parties prenantes pour développer des applications web robustes et performantes.
+
+- Optimisation et gestion des bases de données : Mise en place, maintenance, et optimisation pour des performances maximales.
+- Automatisation de vos processus métiers : Développement de scripts et services en PHP pour réduire les tâches répétitives et accélérer vos workflows.
+- Création de fonctionnalités sur mesure : Développement et intégration de nouvelles fonctionnalités pour enrichir vos applications existantes.
+- Maintenance et amélioration continue : Correction de bugs, stabilisation, et optimisation de vos plateformes.
+Refonte d’interfaces web : Passage vers des designs modernes et ergonomiques pour améliorer l’expérience utilisateur.
+
+## Site personnel
+- [barthelemy-ehui](https://barthelemy-ehui.github.io/): Site internet personnel
+
+## Réseau linkedin
+- [linkedin](https://www.linkedin.com/in/barthelemy-ehui-developpeur-backend-php/): Réseau professionnel
+
+## Github
+- [github](https://github.com/barthelemy-ehui): Projets personnels et open source
+
+## bootdev
+- [profile bootdev](https://www.boot.dev/u/behui): Formations en développement web
+
+## Certifications bootdev Learn SQL
+- [Learn SQL](https://www.boot.dev/certificates/ee3266f5-4f49-43ac-9a91-f0d26b1ae1b9)
+
+## Certifications bootdev Learn Code in Python
+- [Learn to Code in Python](https://www.boot.dev/certificates/3ef5b3ae-9c70-4951-9df7-394300f379b0)
+
+## Certifications bootdev Learn Object-Oriented Programming in Python
+- [Learn Object-Oriented Programming in Python](https://www.boot.dev/certificates/b71b678b-d0a0-4e47-9453-02f13d2dc559)
+
+## Certifications bootdev Learn linux
+- [Object-Oriented Programming in python](https://www.boot.dev/certificates/412e71db-f543-4ff6-a220-bf789c21ce99)
+
+## Certifications bootdev Learn functional Programming in Python
+- [Learn functional Programming in Python](https://www.boot.dev/certificates/67daab0a-6710-473b-8976-bb913b3932b6)
+
+## Certifications bootdev Learn git
+- [Learn git](https://www.boot.dev/certificates/3be80368-e151-4553-b1ad-74b02586eee1)
+
+## Certifications bootdev Learn HTTP Clients in Typescript
+- [Learn HTTP Clients in Typescript](https://www.boot.dev/certificates/af015333-018d-461f-bf63-7f12a5f9c236)
+
+
+## Réseau social x
+- [x](https://x.com/ehui_barthelemy): Veille technologique

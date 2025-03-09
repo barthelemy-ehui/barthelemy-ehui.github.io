@@ -13,6 +13,9 @@ Refonte d’interfaces web : Passage vers des designs modernes et ergonomiques p
 ## Réseau linkedin
 - [linkedin](https://www.linkedin.com/in/barthelemy-ehui-developpeur-backend-php/): Réseau professionnel
 
+## Réseau social x
+- [x](https://x.com/ehui_barthelemy): Veille technologique
+
 ## Github
 - [github](https://github.com/barthelemy-ehui): Projets personnels et open source
 
@@ -39,7 +42,3 @@ Refonte d’interfaces web : Passage vers des designs modernes et ergonomiques p
 
 ## Certifications bootdev Learn HTTP Clients in Typescript
 - [Learn HTTP Clients in Typescript](https://www.boot.dev/certificates/af015333-018d-461f-bf63-7f12a5f9c236)
-
-
-## Réseau social x
-- [x](https://x.com/ehui_barthelemy): Veille technologique

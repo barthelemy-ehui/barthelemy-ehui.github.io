@@ -142,13 +142,13 @@ show-orange.fr, clubavantages-bigmat.fr.
 
 ### FORMATIONS
 
-- Je suis en veille technique sur Bootdev tant que Développeur backend depuis 2023 à aujourd'hui
-- Je suis en veille technique Codecourse en tant que Développeur PHP depuis 2023 à aujourd'hui
-- Je suis en veille technique Laracast en tant que Développeur PHP depuis 2014 à aujourd'hui
-- J'ai suivi une formation chez OpenClassrooms en tant que Développeur PHP/Symfony entre 2017 à 2018
-- J'ai suivi une formation chez IPSSI Groupe IP-Formation en tant que développeur alternant PHP/MySql entre 2011 à 2012
-- J'ai passé mon BAC +2 en DUT Métiers du Multimédia et de l’Internet à l'université Cergy-Pontoise entre 2008 à 2010
-- J'ai passé mon BAC Génie Électronique au lycée de la Tourelle entre 2006 à 2008
+- Depuis 2023 à aujourd'hui, je suis en veille technique sur Bootdev tant que Développeur backend
+- Depuis 2023 à aujourd'hui, je suis en veille technique sur Codecourse en tant que Développeur PHP
+- Depuis 2014 à aujourd'hui, je suis en veille technique sur Laracast en tant que Développeur PHP
+- Entre 2017 à 2018, j'ai suivi une formation chez OpenClassrooms en tant que Développeur PHP/Symfony
+- Entre 2011 à 2012, j'ai suivi une formation chez IPSSI Groupe IP-Formation en tant que développeur alternant PHP/MySql
+- Entre 2008 à 2010, J'ai passé mon BAC +2 en DUT Métiers du Multimédia et de l’Internet à l'université Cergy-Pontoise
+- Entre 2006 à 2008, j'ai passé mon BAC Génie Électronique au lycée de la Tourelle
 
 ### LANGUE
  - Anglais: lu, écrit, parlé (coder en anglais, lire de la documentation technique)

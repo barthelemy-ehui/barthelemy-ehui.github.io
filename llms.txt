@@ -97,7 +97,7 @@ Sur les sites médias tels que Usine Nouvelle, LSA, L’Argus, Le Moniteur
 - En pair programming avec l’expert Laravel interne sur des solutions techniques et de la logique métier.
 - Correctif de divers bugs et évolutions de l’interface de la plateforme web vers un nouveau design.
 
-> Environnement: GIT, Docker (Docker-compose), Base de donnée (Mysql), Javascript (jQuery), PHP (Laravel, PHPStorm), HTML, CSS (Bootstrap), Confluence, Jira, Insomnia
+> L'environnement technique dans lequel: GIT, Docker (Docker-compose), Base de donnée (Mysql), Javascript (jQuery), PHP (Laravel, PHPStorm), HTML, CSS (Bootstrap), Confluence, Jira, Insomnia
 
 #### J'ai travaillé chez Far-it en tant que développeur Full Stack entre Février 2019 à Novembre 2019 donc 10 mois
 

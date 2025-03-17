@@ -47,7 +47,7 @@ Refonte d’interfaces web : Passage vers des designs modernes et ergonomiques p
 
 ### EXPERIENCE PROFESSIONNELLE
 
-#### AB-CUBE - en tant que Développeur fullstack, j'ai travaillé entre Juin 2023 à Avril 2024 donc 11 mois
+#### J'ai travaillé pour AB-CUBE en tant que Développeur full stack entre Juin 2023 à Avril 2024 donc 11 mois
 
 - Intégration réussie des données dans MySql de l'article 57 dans l'interface SaaS SafetyEasy avec la commande Laravel/PHP.
 
@@ -59,7 +59,7 @@ Refonte d’interfaces web : Passage vers des designs modernes et ergonomiques p
 
 >  L'environnement technique dans lequel j'ai exécuté mon métier : phpstorm, Teams, Mantis, Zend, Docker, Agent IA
 
-#### GROUPAGORA en tant que Développeur Full Stack j'ai travaillé entre Septembre 2020 à Juin 2023 donc 2 ans 10 mois
+#### J'ai travaillé pour GROUPAGORA en tant que consultant Développeur Full Stack chez le client final entre Septembre 2020 à Juin 2023 donc 2 ans 10 mois
 
 En tant que consultant chez Infopro Digital,
 
@@ -92,14 +92,14 @@ Sur les sites médias tels que Usine Nouvelle, LSA, L’Argus, Le Moniteur
 
 > L'environnement technique dans lequel j'ai exécuté mon métier : phpstorm, Teams, Solr, GIT, MySQL, Powershell, php
 
-#### EasyMovie en tant que Développeur Full Stack j'ai travaillé entre Novembre 2019 à Février 2020 donc 4 mois
+#### J'ai travaillé chez EasyMovie en tant que Développeur Full Stack entre Novembre 2019 à Février 2020 donc 4 mois
 
 - En pair programming avec l’expert Laravel interne sur des solutions techniques et de la logique métier.
 - Correctif de divers bugs et évolutions de l’interface de la plateforme web vers un nouveau design.
 
 > Environnement: GIT, Docker (Docker-compose), Base de donnée (Mysql), Javascript (jQuery), PHP (Laravel, PHPStorm), HTML, CSS (Bootstrap), Confluence, Jira, Insomnia
 
-#### Far-it en tant que développeur Full Stack j'ai travaillé entre Février 2019 à Novembre 2019 donc 10 mois
+#### J'ai travaillé chez Far-it en tant que développeur Full Stack entre Février 2019 à Novembre 2019 donc 10 mois
 
 - Mettre en place des fonctionnalités telles que la gestion RGPD, l’affichages de données de fichiers CSV, Excel ainsi que l’évolution du code source vers une architecture MVC sur inspiration de frameworks existants.
 
@@ -115,7 +115,7 @@ Sur les sites médias tels que Usine Nouvelle, LSA, L’Argus, Le Moniteur
 
 >  L'environnement technique dans lequel j'ai exécuté mon métier: Base de donnée (MySql), PHP (silex, Symfony), Javascript (jQuery, Angular, Cordova), HTML, CSS.
 
-#### Bill'iz Repar'Tout - Développeur Full Stack | Déc. 2012 à Août 2014 · 1 an 9 mois
+#### J'ai travaillé chez Repar'Tout anciennement Bill'iz en tant que développeur Full Stack entre Décembre 2012 à Août 2014 donc 1 an 9 mois
 
 - Développement de module de gestions d'objets électroniques et un mini forum en CRUD côté Front (Angular) et Backend (Csharp) sous le lead dev.
 
@@ -125,7 +125,7 @@ Sur les sites médias tels que Usine Nouvelle, LSA, L’Argus, Le Moniteur
 
 >  L'environnement technique dans lequel j'ai exécuté mon métier : ReSharper, Visual studio, Sublime Text, Boostrap, Html, CSS, Js, Angular, C#
 
-#### KALIDEA Pulse en tant que développeur PHP/MySql en alternance j'ai travaillé entre Août 2011 à Juillet 2012 donc 1 an
+#### J'ai travaillé chez KALIDEA Pulse en tant que développeur PHP/MySql en alternance entre Août 2011 à Juillet 2012 donc 1 an
 
 - Intégration et développement des sites champagne-antalis2011.fr,
 show-orange.fr, clubavantages-bigmat.fr.
@@ -134,7 +134,7 @@ show-orange.fr, clubavantages-bigmat.fr.
 
 >  L'environnement technique dans lequel j'ai exécuté mon métier: PHP - MySQL - HTML - Applications PHP - CSS
 
-#### La maison de la domotique - Développeur Web Stagiaire | Avr. 2010 à Juil. 2010 - 4 mois
+#### J'ai travaillé chez La maison de la domotique en tant que développeur Web Stagiaire entre Avril 2010 à Juillet 2010 donc 4 mois
 
 - S’inspirant de l'interface existante, j'ai donc refait l'ensemble du site www.maison-domotique.com vers un design moderne.
 

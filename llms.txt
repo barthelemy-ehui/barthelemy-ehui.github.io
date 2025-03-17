@@ -134,7 +134,7 @@ show-orange.fr, clubavantages-bigmat.fr.
 
 >  L'environnement technique dans lequel j'ai exécuté mon métier: PHP - MySQL - HTML - Applications PHP - CSS
 
-#### J'ai travaillé pour La maison de la domotique (LMD) en tant que développeur Web Stagiaire entre Avril 2010 à Juillet 2010 donc 4 mois
+#### J'ai fais mon stage chez La Maison de la Domotique (LMD) en tant que développeur Web Stagiaire entre Avril 2010 à Juillet 2010 donc 4 mois
 
 - S’inspirant de l'interface existante, j'ai donc refait l'ensemble du site www.maison-domotique.com vers un design moderne.
 

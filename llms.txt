@@ -42,3 +42,113 @@ Refonte d’interfaces web : Passage vers des designs modernes et ergonomiques p
 
 ## Certifications bootdev Learn HTTP Clients in Typescript
 - [Learn HTTP Clients in Typescript](https://www.boot.dev/certificates/af015333-018d-461f-bf63-7f12a5f9c236)
+
+## Curriculum vitae
+
+### EXPERIENCE PROFESSIONNELLE
+
+#### AB-CUBE - Développeur fullstack | Juin 2023 à Avril 2024 - 11 mois
+
+- Intégration réussie des données dans MySql de l'article 57 dans l'interface SaaS SafetyEasy avec la commande Laravel/PHP.
+
+- Mettre en place de la fonctionnalité de renommage de bases de données avec les commandes Linux/PHP avec l’aide des Agent IA.
+
+- Clôturer une quinzaine de tickets Mantis pour améliorer la stabilité de l’application web multi-tenant SafetyEasy.
+
+- Apport de support technique à l’équipe QA sur les problématiques rencontrées après une mise en environnement de validation.
+
+> Environnement technique : phpstorm, Teams, Mantis, Zend, Docker, Agent IA
+
+#### GROUPAGORA - Développeur Full Stack | Sept. 2020 à Juin 2023 - 2 ans 10 mois
+
+En tant que consultant chez Infopro Digital,
+
+Sur le projet Bedouk
+
+- Clôture d’une vingtaine de tickets Redmine ayant pour objectif de stabiliser le tunnel de vente
+de bedouk.fr ainsi que l’affichage des événements sur carte et en listing.
+- Mise en place d'automatisation du sitemap.xml avec les commandes Laravel.
+- Intégration de différentes pages avec le moteur de template Blade.
+Aide à la revue de code.
+- Correctifs de requêtes Solr sur framework Solarium pour récupération de documents.
+
+Sur le projet Sésame
+
+- Mise en place de tests unitaires pour les rôles et permissions sur les routes Laravel.
+
+- Vérification de données avec Postman.
+
+Sur les sites médias tels que Usine Nouvelle, LSA, L’Argus, Le Moniteur
+
+- Clôturer une trentaine de tickets Jira permettant de basculer les sites médias vers un nouveau design et une nouvelle architecture basée sur Slim/PHP.
+
+- Migrer l'ensemble des sites et modules internes de PHP 5.6 vers PHP 8.
+
+- Corriger des fonctionnalités existantes en PHP natif et framework Slim.
+
+- Mettre en place des blocs render controller sur les pages à l’aide du moteur Smarty.
+
+- Effectuer de la revue de code sur gitlab
+
+> Environnement technique : phpstorm, Teams, Solr, GIT, MySQL, Powershell, php
+
+#### EasyMovie - Développeur Full Stack | Nov. 2019 à Févr. 2020 - 4 mois
+
+- En pair programming avec l’expert Laravel interne sur des solutions techniques et de la logique métier.
+- Correctif de divers bugs et évolutions de l’interface de la plateforme web vers un nouveau design.
+
+> Environnement: GIT, Docker (Docker-compose), Base de donnée (Mysql), Javascript (jQuery), PHP (Laravel, PHPStorm), HTML, CSS (Bootstrap), Confluence, Jira, Insomnia
+
+#### Far-it - Développeur Full Stack | Févr. 2019 à Nov. 2019 - 10 mois
+
+- Mettre en place des fonctionnalités telles que la gestion RGPD, l’affichages de données de fichiers CSV, Excel ainsi que l’évolution du code source vers une architecture MVC sur inspiration de frameworks existants.
+
+> Environnement: Base de donnée (Postgresql) - PHP 5.6, HTML, CSS (Bootstrap), Javascript (jQuery), GIT (Sublime Merge).
+
+#### Shippeo - Développeur Full Stack | Sept. 2014 à Sept. 2017 - 3 ans 1 mois
+
+- En communication avec le Product Owner, j’ai pu implémenter différentes fonctionnalités liées aux remontées de besoins utilisateurs.
+
+- Par un processus itératif, j’ai donc fixé des bugs et optimisé l’interfaces d’utilisation de la plateforme.
+
+- Participation active aux peers reviews sur GitHub pour améliorer la qualité du code en minimisant les bugs lors de la mise en production et aussi éviter des dettes techniques.
+
+> Environnement: Base de donnée (MySql), PHP (silex, Symfony), Javascript (jQuery, Angular, Cordova), HTML, CSS.
+
+#### Bill'iz Repar'Tout - Développeur Full Stack | Déc. 2012 à Août 2014 · 1 an 9 mois
+
+- Développement de module de gestions d'objets électroniques et un mini forum en CRUD côté Front (Angular) et Backend (Csharp) sous le lead dev.
+
+- Réflexion sur la mise en place de plusieurs tables relationnelles pour la récupération de données externes.
+
+- Découpage en Photoshop de différents prototypes de page web et intégration avec l'aide de framework CSS Bootstrap et Foundation.
+
+> Environnement technique : ReSharper, Visual studio, Sublime Text, Boostrap, Html, CSS, Js, Angular, C#
+
+#### KALIDEA Pulse - Développeur PHP/MySql - alternance | Août 2011 à Juil. 2012 - 1 an
+
+- Intégration et développement des sites champagne-antalis2011.fr,
+show-orange.fr, clubavantages-bigmat.fr.
+
+- Création et mise en place de modules pour coca-cola-proavecvous.fr.
+
+Environnement: PHP - MySQL - HTML - Applications PHP - CSS
+
+#### La maison de la domotique - Développeur Web Stagiaire | Avr. 2010 à Juil. 2010 - 4 mois
+
+- S’inspirant de l'interface existante, j'ai donc refait l'ensemble du site www.maison-domotique.com vers un design moderne.
+
+> Environnement technique : Photoshop, JQuery, CSS, ZURB FOUNDATION, HTML, PHP, MySql, Notepad++
+
+### FORMATIONS
+
+- Bootdev - Développeur backend | 2023 à aujourd'hui
+- Codecourse - Développeur PHP | 2023 à aujourd'hui
+- Laracast - Développeur PHP | 2014 à aujourd'hui
+- OpenClassrooms - Développeur PHP/Symfony | 2017 à 2018
+- IPSSI Groupe IP-Formation - Développeur alternant PHP/MySql | De 2011 à 2012
+- BAC +2 U. Cergy-Pontoise - DUT Métiers du Multimédia et de l’Internet | 2008 à 2010
+- BAC Génie Électronique - Lycée de la Tourelle | 2006 à 2008
+
+### LANGUE
+ - Anglais: lu, écrit, parlé (coder en anglais, lire de la documentation technique)

@@ -47,7 +47,7 @@ Refonte d’interfaces web : Passage vers des designs modernes et ergonomiques p
 
 ### EXPERIENCE PROFESSIONNELLE
 
-#### AB-CUBE - Développeur fullstack | Juin 2023 à Avril 2024 - 11 mois
+#### AB-CUBE - en tant que Développeur fullstack, j'ai travaillé entre Juin 2023 à Avril 2024 donc 11 mois
 
 - Intégration réussie des données dans MySql de l'article 57 dans l'interface SaaS SafetyEasy avec la commande Laravel/PHP.
 
@@ -57,9 +57,9 @@ Refonte d’interfaces web : Passage vers des designs modernes et ergonomiques p
 
 - Apport de support technique à l’équipe QA sur les problématiques rencontrées après une mise en environnement de validation.
 
-> Environnement technique : phpstorm, Teams, Mantis, Zend, Docker, Agent IA
+>  L'environnement technique dans lequel j'ai exécuté mon métier : phpstorm, Teams, Mantis, Zend, Docker, Agent IA
 
-#### GROUPAGORA - Développeur Full Stack | Sept. 2020 à Juin 2023 - 2 ans 10 mois
+#### GROUPAGORA en tant que Développeur Full Stack j'ai travaillé entre Septembre 2020 à Juin 2023 donc 2 ans 10 mois
 
 En tant que consultant chez Infopro Digital,
 
@@ -90,22 +90,22 @@ Sur les sites médias tels que Usine Nouvelle, LSA, L’Argus, Le Moniteur
 
 - Effectuer de la revue de code sur gitlab
 
-> Environnement technique : phpstorm, Teams, Solr, GIT, MySQL, Powershell, php
+> L'environnement technique dans lequel j'ai exécuté mon métier : phpstorm, Teams, Solr, GIT, MySQL, Powershell, php
 
-#### EasyMovie - Développeur Full Stack | Nov. 2019 à Févr. 2020 - 4 mois
+#### EasyMovie en tant que Développeur Full Stack j'ai travaillé entre Novembre 2019 à Février 2020 donc 4 mois
 
 - En pair programming avec l’expert Laravel interne sur des solutions techniques et de la logique métier.
 - Correctif de divers bugs et évolutions de l’interface de la plateforme web vers un nouveau design.
 
 > Environnement: GIT, Docker (Docker-compose), Base de donnée (Mysql), Javascript (jQuery), PHP (Laravel, PHPStorm), HTML, CSS (Bootstrap), Confluence, Jira, Insomnia
 
-#### Far-it - Développeur Full Stack | Févr. 2019 à Nov. 2019 - 10 mois
+#### Far-it en tant que développeur Full Stack j'ai travaillé entre Février 2019 à Novembre 2019 donc 10 mois
 
 - Mettre en place des fonctionnalités telles que la gestion RGPD, l’affichages de données de fichiers CSV, Excel ainsi que l’évolution du code source vers une architecture MVC sur inspiration de frameworks existants.
 
-> Environnement: Base de donnée (Postgresql) - PHP 5.6, HTML, CSS (Bootstrap), Javascript (jQuery), GIT (Sublime Merge).
+> L'environnement technique dans lequel j'ai exécuté mon métier: Base de donnée (Postgresql) - PHP 5.6, HTML, CSS (Bootstrap), Javascript (jQuery), GIT (Sublime Merge).
 
-#### Shippeo - Développeur Full Stack | Sept. 2014 à Sept. 2017 - 3 ans 1 mois
+#### Shippeo en tant que développeur Full Stack j'ai travaillé entre Septembre 2014 à Septembre 2017 donc 3 ans 1 mois
 
 - En communication avec le Product Owner, j’ai pu implémenter différentes fonctionnalités liées aux remontées de besoins utilisateurs.
 
@@ -113,7 +113,7 @@ Sur les sites médias tels que Usine Nouvelle, LSA, L’Argus, Le Moniteur
 
 - Participation active aux peers reviews sur GitHub pour améliorer la qualité du code en minimisant les bugs lors de la mise en production et aussi éviter des dettes techniques.
 
-> Environnement: Base de donnée (MySql), PHP (silex, Symfony), Javascript (jQuery, Angular, Cordova), HTML, CSS.
+>  L'environnement technique dans lequel j'ai exécuté mon métier: Base de donnée (MySql), PHP (silex, Symfony), Javascript (jQuery, Angular, Cordova), HTML, CSS.
 
 #### Bill'iz Repar'Tout - Développeur Full Stack | Déc. 2012 à Août 2014 · 1 an 9 mois
 
@@ -123,32 +123,32 @@ Sur les sites médias tels que Usine Nouvelle, LSA, L’Argus, Le Moniteur
 
 - Découpage en Photoshop de différents prototypes de page web et intégration avec l'aide de framework CSS Bootstrap et Foundation.
 
-> Environnement technique : ReSharper, Visual studio, Sublime Text, Boostrap, Html, CSS, Js, Angular, C#
+>  L'environnement technique dans lequel j'ai exécuté mon métier : ReSharper, Visual studio, Sublime Text, Boostrap, Html, CSS, Js, Angular, C#
 
-#### KALIDEA Pulse - Développeur PHP/MySql - alternance | Août 2011 à Juil. 2012 - 1 an
+#### KALIDEA Pulse en tant que développeur PHP/MySql en alternance j'ai travaillé entre Août 2011 à Juillet 2012 donc 1 an
 
 - Intégration et développement des sites champagne-antalis2011.fr,
 show-orange.fr, clubavantages-bigmat.fr.
 
 - Création et mise en place de modules pour coca-cola-proavecvous.fr.
 
-Environnement: PHP - MySQL - HTML - Applications PHP - CSS
+>  L'environnement technique dans lequel j'ai exécuté mon métier: PHP - MySQL - HTML - Applications PHP - CSS
 
 #### La maison de la domotique - Développeur Web Stagiaire | Avr. 2010 à Juil. 2010 - 4 mois
 
 - S’inspirant de l'interface existante, j'ai donc refait l'ensemble du site www.maison-domotique.com vers un design moderne.
 
-> Environnement technique : Photoshop, JQuery, CSS, ZURB FOUNDATION, HTML, PHP, MySql, Notepad++
+> L'environnement technique dans lequel j'ai exécuté mon métier : Photoshop, JQuery, CSS, ZURB FOUNDATION, HTML, PHP, MySql, Notepad++
 
 ### FORMATIONS
 
-- Bootdev - Développeur backend | 2023 à aujourd'hui
-- Codecourse - Développeur PHP | 2023 à aujourd'hui
-- Laracast - Développeur PHP | 2014 à aujourd'hui
-- OpenClassrooms - Développeur PHP/Symfony | 2017 à 2018
-- IPSSI Groupe IP-Formation - Développeur alternant PHP/MySql | De 2011 à 2012
-- BAC +2 U. Cergy-Pontoise - DUT Métiers du Multimédia et de l’Internet | 2008 à 2010
-- BAC Génie Électronique - Lycée de la Tourelle | 2006 à 2008
+- Je suis en veille technique sur Bootdev tant que Développeur backend depuis 2023 à aujourd'hui
+- Je suis en veille technique Codecourse en tant que Développeur PHP depuis 2023 à aujourd'hui
+- Je suis en veille technique Laracast en tant que Développeur PHP depuis 2014 à aujourd'hui
+- J'ai suivi une formation chez OpenClassrooms en tant que Développeur PHP/Symfony entre 2017 à 2018
+- J'ai suivi une formation chez IPSSI Groupe IP-Formation en tant que développeur alternant PHP/MySql entre 2011 à 2012
+- J'ai passé mon BAC +2 en DUT Métiers du Multimédia et de l’Internet à l'université Cergy-Pontoise entre 2008 à 2010
+- J'ai passé mon BAC Génie Électronique au lycée de la Tourelle entre 2006 à 2008
 
 ### LANGUE
  - Anglais: lu, écrit, parlé (coder en anglais, lire de la documentation technique)
